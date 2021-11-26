@@ -1,0 +1,66 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Sen:wght@400;700;800&display=swap');
+*
+{
+    font-family: 'Sen', sans-serif;
+} */
+
+.barre-verticale
+{
+    margin-top: 1%;
+    background-color: #3326AE;
+    border-radius:  60px;
+    color: white;
+}
+.carre
+{
+    height:320px;
+    background-color: rgb(255, 255, 255);
+    border: solid 1px rgb(226, 226, 226);
+    border-radius:  60px;
+    padding-top: 30px;
+}
+.information-forage
+{
+    width: 500px;
+    height: 690px;
+    background-color: #3326AE;
+    border-radius:  60px;
+    padding-top: 10px;
+    color: rgba(255, 255, 255, 0.863);
+}
+.information-forage p
+{
+    font-size: 27px;
+    padding: 25px;
+}
+.donnee
+{
+    margin-top: 10%;
+    font-size: 80px;
+    color: black;
+}
+ul 
+{
+    list-style-type: none;
+}
+ul li a  
+{
+    text-decoration: none;
+    color: white;
+    margin-top: 10%;
+}
+ul li  
+{
+    margin-top: 40%;
+}
+.deconnexion
+{
+    text-decoration: none;
+    color: white;
+}
+.card-footer
+{
+    background-color: #3326AE;
+    border: #3326AE solid 1px;
+     padding-top: 220px;
+}
