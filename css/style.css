@@ -159,3 +159,61 @@ table tr td strong
     border: #3326AE solid 1px;
      padding-top: 50px;
 }
+
+/* parametres */
+
+.parametre
+{
+    border: rgba(85, 85, 85, 0.39) 1px solid;
+    border-radius: 20px;
+    background-color: white;
+    height: 750px;
+    padding-left: 60px;
+    overflow-y: auto;
+}
+.btn
+{
+    border: 1px solid rgba(0, 0, 0, 0.048);
+}
+.btn:hover
+{
+    background-color: #3326AE;
+}
+.bnt-ajout
+{
+    background-color: #3326AE;
+    color: white;
+}
+.bnt-ajout:hover
+{
+    background-color: white;
+    color: #3326AE;
+}
+
+.input-recherche-parametre
+{
+    width: 40%;
+}
+.text-input-parametre
+{
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    height: 40px;
+    box-shadow: 5px 5px 20px rgba(139, 139, 139, 0.164);
+}
+.button-search-parametre
+{
+    height: 40px;
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 5px 5px 20px rgba(139, 139, 139, 0.164);
+}
+.table-parametre tr td strong
+{
+    font-size: 15px;
+    border-bottom: 1px solid black;
+}
+.table-parametre tr td 
+{
+    padding: auto;
+}
