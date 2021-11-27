@@ -1,0 +1,83 @@
+#general{
+    margin: auto;
+    position: center;
+    width: 23%;
+    height: 500px;
+    background-color: white;
+    border-radius: 10%;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+}
+.titre_login{
+    color: #3326AE;
+    text-align: center;
+}
+.form-control{
+    box-shadow: black;
+    width: 70%;
+    border-radius: 177px;
+    margin: auto;
+}
+.form-text{
+    color: #3326AE;
+    margin-left: 16%;
+}
+.bouton{
+    background-color: #3326AE;
+    color: white;
+    margin-bottom: 50%;
+    margin-left: 16%;
+    border-radius: 177px;
+    width: 70%;
+}
+
+#ouvrage_general{
+    position: center;
+    width: 90%;
+    height: 900px;
+    background-color: white;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+}
+
+#barre_accueil{
+    position: center;
+    width:15%;
+    color: white;
+    height: 600px;
+    border-radius: 10%;
+    margin-left: 10%;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+}
+#ouvrage_puit{
+    position: center;
+    width: 30%;
+    height: 600px;
+    background-color: white;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-left: 10%;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+}
+.ouvrage_accueil{
+    background-color: #3326AE;
+    position: center;
+    width:15%;
+    color: white;
+    height: 600px;
+    border-radius: 10%;
+    margin-left: 10%;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+} 
+.ouvrage_accueil_ul{
+  text-decoration: none;
+  margin-bottom: 20%;
+}
+ #ouvrage_forage{
+    position: center;
+    width: 30%;
+    height: 600px;
+    background-color: white;
+    border-radius: 10%;
+    margin-left: 10%;
+    margin-left: 10%;
+    box-shadow: 2px 2px 20px rgb(202, 202, 202);
+}
