@@ -105,3 +105,57 @@ table tr td strong
     font-size: 25px;
     border-bottom: 1px solid black;
 }
+
+/* ouvrage */
+
+.blog-recherche
+{
+    background-color: white;
+    border-radius: 60px;
+    box-shadow: 5px 5px 20px rgba(139, 139, 139, 0.5);
+    height: 90%;
+    height: 800px;
+}
+.input-recherche
+{
+    width: 80%;
+}
+.text-input
+{
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 50px;
+    height: 40px;
+    box-shadow: 5px 5px 20px rgba(139, 139, 139, 0.164);
+}
+.button-search
+{
+    border-bottom-right-radius: 50px;
+    border-top-right-radius: 50px;
+    box-shadow: 5px 5px 20px rgba(139, 139, 139, 0.164);
+}
+.blog-resultat-recherche
+{
+    border: #C4C4C4 solid 1px;
+    border-radius: 30px;
+    width: 80%;
+    margin: auto;
+}
+.blog-resultat-recherche a
+{
+    color: black;
+    display: block;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: start;
+    padding: 10px;
+}
+.blog-resultat-recherche a :hover
+{
+    color: white;
+}
+.card-footer3
+{
+    background-color: #3326AE;
+    border: #3326AE solid 1px;
+     padding-top: 50px;
+}
